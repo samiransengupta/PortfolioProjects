@@ -1,4 +1,4 @@
-select * from covid_deaths$
+select * from covid_deaths$  (data source - ourworldindata.org)
 order by date 
 
 select * from covid_vaccination$
